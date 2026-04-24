@@ -1,0 +1,12 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^git add index\\.html$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "git commit": true,
+        "git push": true,
+        "cp": true,
+        "git add": true
+    }
+}
